@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="6.1.2" apprev="17873">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1500" levelingroll="0" width="1500" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata tags="360|iNTERIOR|Fachada" description="" latitude="" author="" info="" source="" copyright="" longitude="" nodeid="node1" datetime="31/07/2026 09:54 a. m." comment="" title=" Fachada" customnodeid="">
+      <mapcoords y="-0.802002" y_floorplan_percent="86.3905" mapid="FloorPlan01" x_floorplan_percent="41.5" x="0.683899"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" backgroundcolor="0xffffff" enabled="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1" width="180" background="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node2}" tilt="-0.52" title="Dog Park" id="dig park" pan="-84.84"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node3}" tilt="-0.15" title="Casa CLub" id="Casa Club" pan="-47.83"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node10}" tilt="-1.64" title="Estar" id="Estar" pan="-0.87"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node8}" tilt="-2.59" title="Ping Pong" id="pingpong" pan="-299.01"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node9}" tilt="-3.96" title="Cancha Pickleball" id="cancha" pan="-324.9"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node4}" tilt="0.96" title="Fire Pit" id="Fire Pit" pan="-63.2"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomout="0" zoomin="0" zoomoutpause="1" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1500" levelingroll="0" width="1500" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="76.67" tilt="0.94" projection="4" pan="-83.74"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata tags="360|iNTERIOR|DogPark" description="" latitude="" author="" info="" source="" copyright="" longitude="" nodeid="node2" datetime="28/07/2026 09:18 p. m." comment="" title="Dog Park" customnodeid="">
+      <mapcoords y="-0.620728" y_floorplan_percent="66.8639" mapid="FloorPlan01" x_floorplan_percent="85.1667" x="1.4035"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" backgroundcolor="0xffffff" enabled="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1" width="180" background="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node1}" tilt="-11.2" title=" Fachada" id="Fachada" pan="-223.04"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node3}" tilt="5.6" title="Casa CLub" id="Casa Club" pan="-285.48"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomout="0" zoomin="0" zoomoutpause="1" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1500" levelingroll="0" width="1500" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="83.65" tilt="3.37" projection="4" pan="-2.14"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata tags="360|CasaClub|iNTERIOR" description="" latitude="" author="" info="" source="" copyright="" longitude="" nodeid="node3" datetime="29/07/2026 10:55 a. m." comment="" title="Casa CLub" customnodeid="">
+      <mapcoords y="-0.549316" y_floorplan_percent="59.1716" mapid="FloorPlan01" x_floorplan_percent="58.5" x="0.96405"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" backgroundcolor="0xffffff" enabled="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1" width="180" background="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node7}" tilt="-2.42" title="Interior C. Club" id="interior" pan="7.07"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node1}" tilt="-3.81" title=" Fachada" id="Fachada" pan="-267.33"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node8}" tilt="-2.11" title="Ping Pong" id="pingpong" pan="-273.41"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node4}" tilt="-2.3" title="Fire Pit" id="Fire Pit" pan="-76"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node9}" tilt="-2.18" title="Cancha Pickleball" id="cancha" pan="-279.96"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node2}" tilt="0.42" title="Dog Park" id="dog park" pan="-116.82"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node6}" tilt="-0.42" title="Terraza C. Club" id="Terraza" pan="-6.27"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node10}" tilt="0.3" title="Estar" id="Estar" pan="-322.12"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomout="0" zoomin="0" zoomoutpause="1" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1500" levelingroll="0" width="1500" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="84.34" tilt="-0.9" projection="4" pan="-89.24"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata tags="360|iNTERIOR|FirePit" description="" latitude="" author="" info="" source="" copyright="" longitude="" nodeid="node4" datetime="30/07/2026 12:07 p. m." comment="" title="Fire Pit" customnodeid="">
+      <mapcoords y="-0.414734" y_floorplan_percent="44.6746" mapid="FloorPlan01" x_floorplan_percent="80" x="1.31836"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" backgroundcolor="0xffffff" enabled="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1" width="180" background="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node5}" tilt="-2.44" title="Asadores" id="Asadores" pan="-8.76"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node6}" tilt="-5.21" title="Terraza C. Club" id="Terraza" pan="-316.22"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node7}" tilt="-1.05" title="Interior C. Club" id="Interior" pan="-284.16"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node3}" tilt="-2.63" title="Casa CLub" id="Casa Club" pan="-233.71"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node2}" tilt="-2.37" title="Dog Park" id="dog park" pan="-222.09"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node10}" tilt="1.26" title="Estar" id="Estar" pan="-301.98"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node1}" tilt="-2.48" title=" Fachada" id="Fachada" pan="-228.07"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomout="0" zoomin="0" zoomoutpause="1" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1500" levelingroll="0" width="1500" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="84.34" tilt="-2.79" projection="4" pan="-36.29"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata tags="360|Asadores|iNTERIOR" description="" latitude="" author="" info="" source="" copyright="" longitude="" nodeid="node5" datetime="29/07/2026 02:37 p. m." comment="" title="Asadores" customnodeid="">
+      <mapcoords y="-0.227966" y_floorplan_percent="24.5562" mapid="FloorPlan01" x_floorplan_percent="81.1667" x="1.33759"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" backgroundcolor="0xffffff" enabled="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1" width="180" background="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node10}" tilt="-2.06" title="Estar" id="Estar" pan="-273.85"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node6}" tilt="-6.47" title="Terraza C. Club" id="Terraza" pan="-258.12"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node7}" tilt="-1.54" title="Interior C. Club" id="Fire Pit" pan="-249.83"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node3}" tilt="-1.75" title="Casa CLub" id="Casa Club" pan="-203.59"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node4}" tilt="-5.68" title="Fire Pit" id="Fire Pit" pan="-182.05"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node9}" tilt="-0.52" title="Cancha Pickleball" id="cancha" pan="-266.96"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomout="0" zoomin="0" zoomoutpause="1" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1500" levelingroll="0" width="1500" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="78.28" tilt="-0.28" projection="4" pan="168.62"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata tags="360|iNTERIOR|TerrazaCC" description="" latitude="" author="" info="" source="" copyright="" longitude="" nodeid="node6" datetime="29/07/2026 03:38 p. m." comment="" title="Terraza C. Club" customnodeid="">
+      <mapcoords y="-0.203247" y_floorplan_percent="21.8935" mapid="FloorPlan01" x_floorplan_percent="68.1667" x="1.12335"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" backgroundcolor="0xffffff" enabled="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1" width="180" background="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node7}" tilt="-0.35" title="Interior C. Club" id="Interior" pan="-225.35"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node10}" tilt="-3.03" title="Estar" id="Estar" pan="-278.09"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node9}" tilt="0.77" title="Cancha Pickleball" id="cancha" pan="-264.62"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node4}" tilt="-3.59" title="Fire Pit" id="Fire Pit" pan="-138.33"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node5}" tilt="-5.09" title="Asadores" id="Asadores" pan="-93.36"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node3}" tilt="-6.2" title="Casa CLub" id="Casa Club" pan="-155.41"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomout="0" zoomin="0" zoomoutpause="1" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1500" levelingroll="0" width="1500" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="85.32" tilt="-2.22" projection="4" pan="97.02"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata tags="360|iNTERIOR|InteriorCC" description="" latitude="" author="" info="" source="" copyright="" longitude="" nodeid="node7" datetime="29/07/2026 06:13 p. m." comment="" title="Interior C. Club" customnodeid="">
+      <mapcoords y="-0.368042" y_floorplan_percent="39.645" mapid="FloorPlan01" x_floorplan_percent="52.8333" x="0.870667"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" backgroundcolor="0xffffff" enabled="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1" width="180" background="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node3}" tilt="-2.56" title="Casa CLub" id="Casa Club" pan="-130.52"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node1}" tilt="-6.21" title=" Fachada" id="Fachada" pan="-178.71"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node4}" tilt="-3.45" title="Fire Pit" id="Fire Pit" pan="-92.27"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node5}" tilt="-0.86" title="Asadores" id="Asadores" pan="-61.2"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node6}" tilt="-2.96" title="Terraza C. Club" id="Terraza" pan="-68.18"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node10}" tilt="-6.5" title="Estar" id="Estar" pan="-320.69"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node2}" tilt="-2.83" title="Dog Park" id="dig park" pan="-142.18"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomout="0" zoomin="0" zoomoutpause="1" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1500" levelingroll="0" width="1500" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="85.32" tilt="5.43" projection="4" pan="76.97"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata tags="360|iNTERIOR|PingPong" description="" latitude="" author="" info="" source="" copyright="" longitude="" nodeid="node8" datetime="29/07/2026 06:52 p. m." comment="" title="Ping Pong" customnodeid="">
+      <mapcoords y="-0.549316" y_floorplan_percent="59.1716" mapid="FloorPlan01" x_floorplan_percent="20.5" x="0.33783"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" backgroundcolor="0xffffff" enabled="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1" width="180" background="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node9}" tilt="-7.27" title="Cancha Pickleball" id="cancha" pan="-46.93"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node10}" tilt="-2.6" title="Estar" id="Estar" pan="-40.06"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node3}" tilt="-2.47" title="Casa CLub" id="Casa Club" pan="-86.4"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node1}" tilt="-2.8" title=" Fachada" id="Fachada" pan="-94.04"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node6}" tilt="-2.19" title="Terraza C. Club" id="Terraza" pan="-53.8"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node2}" tilt="-0.82" title="Dog Park" id="dig park" pan="-90.49"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomout="0" zoomin="0" zoomoutpause="1" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1500" levelingroll="0" width="1500" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="85.32" tilt="1.21" projection="4" pan="75.27"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata tags="360|iNTERIOR|CanchaPickleball" description="" latitude="" author="" info="" source="" copyright="" longitude="" nodeid="node9" datetime="29/07/2026 07:35 p. m." comment="" title="Cancha Pickleball" customnodeid="">
+      <mapcoords y="-0.354309" y_floorplan_percent="38.1657" mapid="FloorPlan01" x_floorplan_percent="30.1667" x="0.497131"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" backgroundcolor="0xffffff" enabled="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1" width="180" background="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node10}" tilt="-2.69" title="Estar" id="Estar" pan="-28.87"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node3}" tilt="-3.1" title="Casa CLub" id="Casa Club" pan="-123.75"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node1}" tilt="-2.07" title=" Fachada" id="Fachada" pan="-151.14"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node8}" tilt="-5.01" title="Ping Pong" id="pingpong" pan="-225.83"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node6}" tilt="-1.31" title="Terraza C. Club" id="Terraza" pan="-61.13"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomout="0" zoomin="0" zoomoutpause="1" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbiashidpi="1.000" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" height="1500" levelingroll="0" width="1500" levelbias="0.400" levelingpitch="0">
+      <level predecode="0" height="1500" preload="0" width="1500"/>
+      <level predecode="0" height="750" preload="0" width="750"/>
+      <level predecode="1" height="375" preload="1" width="375"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="85.32" tilt="0.02" projection="4" pan="1.41"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" fovstereographic="270" pan="360"/>
+    </view>
+    <userdata tags="360|iNTERIOR|Estar" description="" latitude="" author="" info="" source="" copyright="" longitude="" nodeid="node10" datetime="30/07/2026 09:32 a. m." comment="" title="Estar" customnodeid="">
+      <mapcoords y="-0.241699" y_floorplan_percent="26.0355" mapid="FloorPlan01" x_floorplan_percent="41" x="0.675659"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" backgroundcolor="0xffffff" enabled="1" height="20" borderalpha="1" borderradius="1" textcolor="0x000000" bordercolor="0x000000" wordwrap="1" width="180" background="1" backgroundalpha="1" textalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" mode="0"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node5}" tilt="0.54" title="Asadores" id="Asadores" pan="-83.18"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node6}" tilt="-3.62" title="Terraza C. Club" id="Terraza" pan="-90.38"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node7}" tilt="-0.93" title="Interior C. Club" id="Fire Pit" pan="-99.71"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node3}" tilt="-2.16" title="Casa CLub" id="Casa Club" pan="-170.37"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node1}" tilt="-3.21" title=" Fachada" id="Fachada" pan="-180.48"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node9}" tilt="-2.74" title="Cancha Pickleball" id="cancha" pan="-246.98"/>
+      <hotspot skinid="ht_node" target="" description="" url="{node8}" tilt="-1.32" title="Ping Pong" id="pingpong" pan="-223.1"/>
+    </hotspots>
+    <media/>
+    <transition blendtime="1" enabled="1" type="crossdissolve" zoomspeed="2" zoomfov="20" zoomout="0" zoomin="0" zoomoutpause="1" softedge="0" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" useinautorotation="0"/>
+    <control dblclickfullscreen="0" lockedmouse="0" speedwheel="1" sensitivity="8" lockedkeyboardzoom="0" invertwheel="0" contextprojections="0" hideabout="0" invertcontrol="1" contextfullscreen="1" simulatemass="1" rubberband="0" lockedkeyboard="0" lockedwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" description="" latitude="" author="" info="" source="" copyright="" longitude="" nodeid="master" datetime="" comment="" title="" customnodeid=""/>
+  </masternode>
+  <map bgcolor="rgba(255, 255, 255, 0)" floorplannorth="0" tileformat="png" type="file" height="338" width="600" transparent="1" title="" id="FloorPlan01" zoomlevels="3"/>
+</tour>
